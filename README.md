@@ -17,34 +17,6 @@ Here are some ideas to get you started:
 README.md
 TeamUltroid Logo
 
-Ultroid - UserBot
-A stable pluggable Telegram userbot + vc music bot, based on Telethon.
-
-Stars Forks Size
-Python Maintenance Docker Pulls Open Source Love svg2
-Contributors PRs Welcome License
-Sparkline
-
-Deploy
-Heroku
-Local Machine
-Documentation
-Document
-
-Tutorial
-Full Tutorial - Full Tutorial
-
-Tutorial to get Redis URL and password - here.
-
-Deploy to Heroku
-Get the Necessary Variables and then click the button below!
-
-Deploy
-
-Deploy Locally
-Traditional Method
-Easy Method
-Local Deploy - Easy Method
 Linux - bash -c "$(curl -fsSL https://git.io/JY9UM)"
 Windows - cd desktop ; wget https://del.dog/raw/ultroid-termux -o locals.py ; python locals.py
 Termux - sh -c "$(curl -fsSL https://del.dog/raw/ultroid-termux-deploy)"
